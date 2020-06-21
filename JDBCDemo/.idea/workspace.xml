@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24cce347-7e1f-44fb-9724-177c98ad408d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../IMS/IMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Test Question/Java Test Question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee-management-system-dsa-course-project-STARTER CODE/employee-management-dsa-course-project_STUB_CODE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-java-examples/.idea/Java_upGrad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-java-examples/Session 4- Servlet JSP/DemoServlet/DemoServlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-java-examples/Session 4- Servlet JSP/DemoServletTemplate/DemoServlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-java-examples/Session 4- Servlet JSP/StudentServlet/DemoServlet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/src/main/java/com/upgrad/blog/dto/PostDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/src/main/java/com/upgrad/blog/dto/PostDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/src/main/java/com/upgrad/blog/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/src/main/java/com/upgrad/blog/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/src/main/java/com/upgrad/blog/exceptions/EmailNotValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/src/main/java/com/upgrad/blog/exceptions/EmailNotValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/src/main/java/com/upgrad/blog/exceptions/PostNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/src/main/java/com/upgrad/blog/exceptions/PostNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/src/main/webapp/blog/ViewPostById.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/src/main/webapp/blog/ViewPostById.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/target/classes/com/upgrad/blog/dto/PostDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/target/classes/com/upgrad/blog/dto/PostDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/target/classes/com/upgrad/blog/dto/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/target/classes/com/upgrad/blog/dto/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/target/classes/com/upgrad/blog/exceptions/EmailNotValidException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/target/classes/com/upgrad/blog/exceptions/EmailNotValidException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/target/classes/com/upgrad/blog/exceptions/PostNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/target/classes/com/upgrad/blog/exceptions/PostNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-demo/target/tomcat/logs/access_log.2020-06-01" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-demo/target/tomcat/logs/access_log.2020-06-01" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\HP\IdeaProjects\JDBCDemo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cs7CU3bpKaytEARjeLP1XvX1Jp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EmployeeUpgradDemo" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24cce347-7e1f-44fb-9724-177c98ad408d" name="Default Changelist" comment="" />
+      <created>1591305321581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591305321581</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591346720263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591346720263" />
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1591346777515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591346777515" />
+    <state x="848" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1591346317321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="848" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591346317321" />
+  </component>
+</project>
